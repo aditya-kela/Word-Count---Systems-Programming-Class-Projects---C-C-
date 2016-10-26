@@ -1,2 +1,2 @@
-# Word-Count---Systems-Programming-Class-Projects---C-C-
-Systems Programming Class Projects 
+# Word-Count
+Systems Programming Class Projects in C/C++
